@@ -1,0 +1,11 @@
+< >
+<=
+>=
+&& and, kui vasak ja parem pool on true, tagastab true, kui üks on false on tulemus false
+||
+! 
+
+control flow ja conditionals: if, while, for
+
+functions:
+prompt: veebilehitsejas küsib kasutajat string sisendi

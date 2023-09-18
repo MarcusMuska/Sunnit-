@@ -1,6 +1,0 @@
-< >
-<=
->=
-&& and, kui vasak ja parem pool on true, tagastab true, kui üks on false on tulemus false
-||
-! 
